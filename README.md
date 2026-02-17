@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0035-search-insert-position) |
+| [0485-max-consecutive-ones](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
 |  |
