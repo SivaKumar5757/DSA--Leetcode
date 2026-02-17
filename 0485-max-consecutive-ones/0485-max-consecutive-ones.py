@@ -9,8 +9,6 @@ class Solution:
                 co=0
             else:
                 co+=1
-        if ma<co:
-            ma=co
-        return ma
+        return max(ma,co)
             
             
