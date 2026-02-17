@@ -4,7 +4,8 @@ class Solution:
         ma=0
         for i in nums:
             if i==0:
-                ma=max(ma,co)
+                if ma<co:
+                    ma=co
                 co=0
             else:
                 co+=1
