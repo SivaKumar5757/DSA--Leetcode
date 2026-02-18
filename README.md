@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
