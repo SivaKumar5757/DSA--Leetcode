@@ -17,8 +17,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0029-divide-two-integers) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0029-divide-two-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
