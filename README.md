@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0050-powx-n) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Bit Manipulation
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
