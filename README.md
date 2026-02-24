@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0845-longest-mountain-in-array](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0035-search-insert-position) |
 ## Math
 |  |
