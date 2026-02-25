@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0845-longest-mountain-in-array) |
+## String
+|  |
+| ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
