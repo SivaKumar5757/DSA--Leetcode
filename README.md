@@ -50,9 +50,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
