@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0035-search-insert-position) |
 | [0204-count-primes](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0845-longest-mountain-in-array](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
