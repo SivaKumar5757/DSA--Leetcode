@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0845-longest-mountain-in-array](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [1143-longest-common-subsequence](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1143-longest-common-subsequence](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SivaKumar5757/DSA--Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Stack
 |  |
